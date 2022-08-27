@@ -1,0 +1,5 @@
+/Users/izzy/Documents/Projects/Website/WebComponents/ComponentGenerator/target/rls/debug/deps/termcolor-14dc2505100e1fb8.rmeta: /Users/izzy/.cargo/registry/src/github.com-1ecc6299db9ec823/termcolor-1.1.3/src/lib.rs
+
+/Users/izzy/Documents/Projects/Website/WebComponents/ComponentGenerator/target/rls/debug/deps/termcolor-14dc2505100e1fb8.d: /Users/izzy/.cargo/registry/src/github.com-1ecc6299db9ec823/termcolor-1.1.3/src/lib.rs
+
+/Users/izzy/.cargo/registry/src/github.com-1ecc6299db9ec823/termcolor-1.1.3/src/lib.rs:
